@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sankeerthana-16/LEET_CONSISTENCY/tree/master/0349-intersection-of-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/Sankeerthana-16/LEET_CONSISTENCY/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sankeerthana-16/LEET_CONSISTENCY/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Sankeerthana-16/LEET_CONSISTENCY/tree/master/1672-richest-customer-wealth) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sankeerthana-16/LEET_CONSISTENCY/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Sankeerthana-16/LEET_CONSISTENCY/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -37,4 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sankeerthana-16/LEET_CONSISTENCY/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Sankeerthana-16/LEET_CONSISTENCY/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sankeerthana-16/LEET_CONSISTENCY/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sankeerthana-16/LEET_CONSISTENCY/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
