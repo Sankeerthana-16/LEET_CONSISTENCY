@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Sankeerthana-16/LEET_CONSISTENCY/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Sankeerthana-16/LEET_CONSISTENCY/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Sankeerthana-16/LEET_CONSISTENCY/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Sankeerthana-16/LEET_CONSISTENCY/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
